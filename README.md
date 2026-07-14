@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 AI & Data Science Engineering Scholar at IIT Jodhpur with hands-on experience in full-stack development, AI applications, <br>automation engineering, and cloud deployment. Built production-ready web applications, AI assistants, workflow automation <br>systems, and business automation solutions using modern development frameworks and AI technologies.
 
 
